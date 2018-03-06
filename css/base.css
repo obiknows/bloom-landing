@@ -197,10 +197,11 @@ main {
 	text-indent: -0.05em;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900;
+	text-align: center;
 }
 
 .content__subtitle  {
-	max-width: 300px;
+	/* max-width: 300px; */
 	text-align: center;
 	font-size: 1.25em;
 	font-weight: 400;
